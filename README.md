@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Quốc Hưng</h1>
+<h1 align="center">Hi 👋, I'm Nông Quốc Hưng</h1>
 <h3 align="center">A 3rd-year Software Engineering student from 🇻🇳 HCMUTE</h3>
 
 <p align="center">
